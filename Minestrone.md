@@ -5,3 +5,7 @@ un ottimo piatto per l'inverno
   *cipola 
 *carota
   *sedano
+  *zucchine
+  *patate 
+  *cavolfiori
+   * basilico
