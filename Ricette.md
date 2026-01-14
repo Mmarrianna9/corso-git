@@ -10,3 +10,6 @@
 
 *  Fusilli al Pesto
 
+
+*  Minestrone di verdura
+ 
