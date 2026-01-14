@@ -8,3 +8,4 @@
 *panna 
 *sale 
 *pepe
+*prezzemolo
